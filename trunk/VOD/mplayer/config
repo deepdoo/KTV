@@ -1,0 +1,6 @@
+vo=direct3d
+#osdlevel=3
+#xineramascreen=1
+identify=yes
+#fs=yes
+slave=yes
